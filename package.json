@@ -1,0 +1,11 @@
+{
+  "name": "auto-changelog-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Mahi123Dul/auto-changelog-.git",
+  "author": "Mahi123Dul <sheikhmahi902@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
